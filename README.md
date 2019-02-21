@@ -1,6 +1,6 @@
 ## Face-Generator
 
-###Using GAN to generate human faces (Tensorflow).
+### Using GAN to generate human faces (Tensorflow).
 
 Please read my [blog](https://medium.com/@shivajbd/generating-human-faces-using-adversarial-network-960863bc1deb) for this project.
 
