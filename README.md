@@ -15,3 +15,5 @@ I am using CelebA dataset for training the network. This dataset contains 2,00,0
 Following are the generated faces after training.
 
 <img src=result/img.png>
+
+We can generate more realistic images by making our network deeper, but it will take a lot of time to train the model. We can also modify our network to produce high-resolution images but again at the cost of training time.
